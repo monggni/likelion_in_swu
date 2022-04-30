@@ -12,3 +12,6 @@ https://likelionmongeun.netlify.app/
 
 * 카페 주문 기능 만들기(2022.04.15_스터디)
 ![스크린샷(222)](https://user-images.githubusercontent.com/87985590/163592403-9a7635b6-593f-4857-93a7-9e89aab126d1.png)
+
+### ▸PYTHON 기초 응용 MISSION
+* 당신은 집순이 인가요?(2022.04.16~04.30_개인과제)
