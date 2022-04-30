@@ -15,6 +15,8 @@ https://likelionmongeun.netlify.app/
 
 ### ▸PYTHON 기초 응용 MISSION
 * 당신은 집순이 인가요?(2022.04.16~04.30_개인과제)
+
 ![1](https://user-images.githubusercontent.com/87985590/166109483-11481b01-0c63-4bf4-98a5-38d32502eb12.png)
 ![2(응용)](https://user-images.githubusercontent.com/87985590/166109487-11e2334e-b8f3-4a38-83c3-ec3bed5ba660.png)
+![스크린샷(998)](https://user-images.githubusercontent.com/87985590/166109528-45bf2cc6-6dfb-42a6-ad53-ea8a14e20829.png)
 
