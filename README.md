@@ -20,3 +20,8 @@ https://likelionmongeun.netlify.app/
 ![2(응용)](https://user-images.githubusercontent.com/87985590/166109487-11e2334e-b8f3-4a38-83c3-ec3bed5ba660.png)
 
 
+### ▸[심화] 같이 푸는 PYTHON
+* 실시간 검색어 확인하기 (2022.05.01_정기세션)
+* 날씨 정보 받아오기 (2022.05.01_정기세션)
+
+
