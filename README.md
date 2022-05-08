@@ -27,7 +27,12 @@ https://likelionmongeun.netlify.app/
 ### ▸PYTHON 심화 응용 MISSION
 * 뉴스 검색어 및 페이지 지정하여 뉴스제목 크롤링+엑셀파일저장(2022.05.06_스터디)
  ~~pandas dataframe다시공부하렴. 어디가서 데사복전이라고하지말고 ㅎㅎ~~
+ ![스크린샷(1018)](https://user-images.githubusercontent.com/87985590/167291548-e54b6601-f848-496b-8de6-4243382b4e0a.png)
+
 
 ###### ▸[심화] 같이 푸는 PYTHON
 * 번역하기(2022.05.08_자율정기세션)
+* ![스크린샷(1019)](https://user-images.githubusercontent.com/87985590/167291559-1e1cbfdd-9953-4304-8dfc-edbf58a770e1.png)
+
 * 메일보내기(2022.05.08_자율세션)
+![스크린샷(1024)_LI](https://user-images.githubusercontent.com/87985590/167291600-19092c58-2380-4688-a1af-3ad4df39ba0b.jpg)
