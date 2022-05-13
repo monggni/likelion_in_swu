@@ -30,9 +30,14 @@ https://likelionmongeun.netlify.app/
  ![스크린샷(1018)](https://user-images.githubusercontent.com/87985590/167291548-e54b6601-f848-496b-8de6-4243382b4e0a.png)
 
 
-###### ▸[심화] 같이 푸는 PYTHON
+#### ▸[심화] 같이 푸는 PYTHON
 * 번역하기(2022.05.08_자율정기세션)
 * ![스크린샷(1019)](https://user-images.githubusercontent.com/87985590/167291559-1e1cbfdd-9953-4304-8dfc-edbf58a770e1.png)
 
 * 메일보내기(2022.05.08_자율세션)
 ![스크린샷(1024)_LI](https://user-images.githubusercontent.com/87985590/167291600-19092c58-2380-4688-a1af-3ad4df39ba0b.jpg)
+
+### ▸PYTHON 심화 응용 MISSION
+* pillow 모듈 사용해보기
+* ![스크린샷(265)](https://user-images.githubusercontent.com/87985590/168277527-31994f0b-2ba9-4cab-9eb7-42712c7589f5.png)
+
