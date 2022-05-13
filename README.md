@@ -39,5 +39,6 @@ https://likelionmongeun.netlify.app/
 
 ### ▸PYTHON 심화 응용 MISSION
 * pillow 모듈 사용해보기
+* ![스크린샷(266)](https://user-images.githubusercontent.com/87985590/168277679-dc96c148-b811-4042-b476-04ac16c36d97.png)
 * ![스크린샷(265)](https://user-images.githubusercontent.com/87985590/168277527-31994f0b-2ba9-4cab-9eb7-42712c7589f5.png)
 
